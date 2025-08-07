@@ -1,0 +1,6 @@
+../Src/temperature.c:13:6:delay_us	2
+../Src/temperature.c:21:6:DHT_set_output	1
+../Src/temperature.c:28:6:DHT_set_input	1
+../Src/temperature.c:32:6:DHT_write	2
+../Src/temperature.c:39:9:DHT_read	1
+../Src/temperature.c:43:9:DHT_read_sensor	9
