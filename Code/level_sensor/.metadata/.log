@@ -1,0 +1,30 @@
+!SESSION 2025-08-12 12:47:36.558 -----------------------------------------------
+eclipse.buildId=Version 1.18.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-08-12 12:48:04.737
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-08-12 12:48:04.738
+!MESSAGE Log4j2 initialized with config file /home/hp15s-pc/CDAC_PROJ/JayeshNikam_WorkSpace/Code/level_sensor/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-08-12 12:48:12.527
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-08-12 12:50:29.541 -----------------------------------------------
+eclipse.buildId=Version 1.18.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-08-12 12:50:35.272
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-08-12 12:50:35.273
+!MESSAGE Log4j2 initialized with config file /home/hp15s-pc/CDAC_PROJ/JayeshNikam_WorkSpace/Code/level_sensor/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-08-12 12:50:38.831
+!MESSAGE Started RMI Server, listening on port 41337
